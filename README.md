@@ -1,5 +1,17 @@
-# 💫 About Me:
-I am currently working on my non-profit website for mental wellness called HappyHeadspace.<br>I am currently learning C++, Node & React.<br>Proficient in HTML, JavaScript, CSS and C.
+# About Me
+
+**Hi there! I'm a passionate developer and advocate for mental wellness.**
+
+I'm currently working on **HappyHeadspace**, a non-profit initiative dedicated to promoting mental health. 
+
+
+**Let's connect!** 
+* **GitHub:** []
+* **LinkedIn:** [Your LinkedIn profile link]
+* **Twitter:** [Your Twitter handle]
+
+**Let's build a happier, healthier digital world together!** 
+:heart: :smile: :brain:
 
 
 # 💻 Tech Stack:
