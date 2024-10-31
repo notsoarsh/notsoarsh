@@ -1,4 +1,4 @@
-# About Me
+# Hi, I am Arshpal
 
 **Hi there! I'm a passionate developer and advocate for mental wellness.**
 
