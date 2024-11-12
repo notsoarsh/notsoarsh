@@ -4,12 +4,6 @@
 
 I'm currently working on **HappyHeadspace**, a non-profit initiative dedicated to promoting mental health. 
 
-
-**Let's connect!** 
-* **GitHub:** []
-* **LinkedIn:** [Your LinkedIn profile link]
-* **Twitter:** [Your Twitter handle]
-
 **Let's build a happier, healthier digital world together!** 
 :heart: :smile: :brain:
 
