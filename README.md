@@ -1,11 +1,11 @@
 # Hi, I am Arshpal
 
-**Hi there! I'm a passionate developer and advocate for mental wellness.**
+**Hi there! I'm a passionate developer , trying out new tech every day.**
 
-I'm currently working on **HappyHeadspace**, a non-profit initiative dedicated to promoting mental health. 
+Currently learning and practicing DSA and Node concepts.
 
-**Let's build a happier, healthier digital world together!** 
-:heart: :smile: :brain:
+
+ :smile: :brain:
 
 
 # 💻 Tech Stack:
